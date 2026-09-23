@@ -1,0 +1,26 @@
+{
+  "name": "todo-firebase-rtdb",
+  "description": "App de Tarefas (CRUD) com Expo + React Native Paper + Firebase Realtime Database v8",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-picker/picker": "2.11.4",
+    "@react-navigation/bottom-tabs": "^7.19.2",
+    "@react-navigation/native": "^7.4.1",
+    "@react-navigation/native-stack": "^7.19.2",
+    "expo": "^55.0.0",
+    "expo-clipboard": "~55.0.17",
+    "expo-image-picker": "~55.0.24",
+    "expo-location": "~55.1.14",
+    "expo-notifications": "~55.0.27",
+    "expo-status-bar": "~55.0.6",
+    "firebase": "8.10.0",
+    "react": "19.2.0",
+    "react-native": "0.83.10",
+    "react-native-gesture-handler": "~2.30.0",
+    "react-native-paper": "^5.15.3",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.23.0"
+  },
+  "private": true
+}
